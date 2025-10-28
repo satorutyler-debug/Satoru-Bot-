@@ -4,7 +4,7 @@ const { client } = global;
 
 module.exports = {
 	config: {
-		name: "adminonly",
+		name: "ᏕᏗᏖᎧᏒᏬ ᎶᎧᏠᎧ",
 		aliases: ["adonly", "onlyad", "onlyadmin"],
 		version: "1.5",
 		author: "NTKhang",
